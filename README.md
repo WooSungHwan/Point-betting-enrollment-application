@@ -55,4 +55,4 @@
 * 교과과목 확인하기<br><br>
 <img src="https://github.com/WooSungHwan/Point-betting-enrollment-application/blob/master/수강신청%20캡처사진/교과과목%20확인하기.PNG">
 * 모의수강신청<br><br>
-<img src="![Alt text](https://github.com/WooSungHwan/GolaBang/blob/master/8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/05.%EA%B1%B0%EB%9E%98%20%EA%B4%80%EB%A6%AC/2-3.%EA%B1%B0%EB%9E%98%20%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9(%EA%B3%84%EC%95%BD%EC%84%9C).jpg)">
+<img src="https://github.com/WooSungHwan/Point-betting-enrollment-application/blob/master/수강신청%20캡처사진/모의수강신청진행중.PNG">
